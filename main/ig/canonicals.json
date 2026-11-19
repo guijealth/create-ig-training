@@ -1,0 +1,7 @@
+[{
+  "id" : "org.fhir.eu.monig",
+  "type" : "ImplementationGuide",
+  "url" : "https://example.org/ig/monig/ImplementationGuide/org.fhir.eu.monig",
+  "version" : "0.1.0",
+  "name" : "ExampleIG"
+}]
